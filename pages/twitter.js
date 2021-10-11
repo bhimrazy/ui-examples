@@ -7,7 +7,7 @@ export default function twitter() {
         {
             "name": "Elon Musk",
             "username": "elonmusk",
-            "profile-image": "https://pbs.twimg.com/profile_images/1423663740344406029/l_-QOIHY_400x400.jpg",
+            "profile-image": "https://pbs.twimg.com/profile_images/1442634650703237120/mXIcYtIs_400x400.jpg",
             "about": "Mad respect for the makers",
             "following": "106",
             "followers": "59.2M",
