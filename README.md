@@ -21,7 +21,7 @@
    [SendStack TODO](https://github.com/bhimrazy/ui-examples/blob/master/TODO-SendStack.md)
      
   ![send-stack](https://user-images.githubusercontent.com/46085301/137587881-9d60f375-5a3a-4a2c-88b4-eb90f4f86a66.png)
-  - It is a code implementation of a design from [James](https://dribbble.com/shots/16656464--SendStack)
+  It is a code implementation of a design from [James](https://dribbble.com/shots/16656464--SendStack)
 
 
 ## Author
