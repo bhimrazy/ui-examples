@@ -9,3 +9,4 @@
 - [x]  Header Section
 - [x]  Hero Section
 - [x]  Privacy Section
+- [x]  BG Pattern Image
