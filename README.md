@@ -20,15 +20,11 @@
 ### SendStack Ui Example
   ![send-stack](https://user-images.githubusercontent.com/46085301/137587881-9d60f375-5a3a-4a2c-88b4-eb90f4f86a66.png)
 
-## Install
-```shell
-    npm install && npm run dev
 
-```
-
+## Author
+ - [@bhimrazy](https://github.com/bhimrazy)
 ## Tech Stack
 NextJs & TailwindCSS
-
 
 ## License
 
